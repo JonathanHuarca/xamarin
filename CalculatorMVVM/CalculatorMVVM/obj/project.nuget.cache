@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "a53Ou2tyHegyE8ND15/r4dqQgx2pp5PmFmVoxYLaumKj4EEc6AL2MmO6A3P2GIVKAZa9zREX0FDiGiuap1XKCg==",
+  "success": true,
+  "projectFilePath": "D:\\V-ciclo\\Aplicaciones-Moviles-Multiplataforma\\Semana13\\CalculatorMVVM\\CalculatorMVVM\\CalculatorMVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JONATHAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JONATHAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\JONATHAN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\JONATHAN\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
